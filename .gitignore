@@ -1,0 +1,26 @@
+# Ignore Go build output
+/bin/
+/tmp/
+
+# Ignore Go module files (if not needed)
+/go.sum
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore environment files
+.env
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
+
+# Ignore test output
+*.test
+*.out
+
+# Ignore local development files
+*.local
+
+checklist-go
